@@ -28,7 +28,11 @@ void insert_at_tail(Node *&head, int el){
 
 void insert_at_any_pos(Node *&head, int pos, int el){
     Node *new_node = new Node(el);
-
+        if(pos == 1){
+        new_node->next = head;
+        head = new_node;
+        return;
+    }
     Node *temp = head;
     for(int i = 1; i < pos-1; i++){
         temp = temp->next;
