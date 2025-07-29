@@ -2,9 +2,9 @@
 using namespace std;
 
 class MyQueue{
-
-public:
+private:
     stack<int> st;
+public:
     void push(int val){
         st.push(val);
     }
