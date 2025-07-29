@@ -20,6 +20,7 @@ public:
 
                  if(myQueue.size() == 1){
                         last = myQueue.front(); //store popped out value
+                     myQueue.pop(); //pop out this value
                     break;
                 }
                 //store rest values to another queue
