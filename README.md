@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0874-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
@@ -39,4 +41,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0020-valid-parentheses) |
+| [0874-backspace-string-compare](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0874-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
