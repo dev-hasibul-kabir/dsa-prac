@@ -38,4 +38,6 @@ int main(){
     e->right = i;
     f->left = j;
     f->right = k;
+
+    return 0;
 }
