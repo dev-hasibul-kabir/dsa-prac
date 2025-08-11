@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0094-binary-tree-inorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -69,8 +70,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0094-binary-tree-inorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0222-count-complete-tree-nodes) |
 ## Array
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0066-plus-one) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
