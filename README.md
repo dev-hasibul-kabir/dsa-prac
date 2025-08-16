@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0066-plus-one) |
+| [1448-maximum-69-number](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/1448-maximum-69-number) |
 ## Tree
 |  |
 | ------- |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0104-maximum-depth-of-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
