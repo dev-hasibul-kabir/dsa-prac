@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0222-count-complete-tree-nodes) |
+| [0783-search-in-a-binary-search-tree](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0222-count-complete-tree-nodes) |
+| [0783-search-in-a-binary-search-tree](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0904-leaf-similar-trees) |
 ## Array
 |  |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/1448-maximum-69-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
