@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/0066-plus-one) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/dev-hasibul-kabir/dsa-prac/tree/master/1448-maximum-69-number) |
 ## Tree
 |  |
